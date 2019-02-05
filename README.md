@@ -10,7 +10,7 @@ Project created for studies and understanding of the ecosystem of React / Redux 
 **For run a mock server**
 
     yarn add global json-server
-    json-server server-json -p 3001 -w -d 500
+    json-server server.json -p 3001 -w -d 500
 
 - -p (choose port)
 - -w (watch server and live reload)
